@@ -1,0 +1,18 @@
+.container {
+    margin-top: 3%;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.app-comp {
+    background-color: darkblue;
+}
+
+p {
+    margin-bottom: 0;
+    color: azure;
+    font-size: 32px;
+}

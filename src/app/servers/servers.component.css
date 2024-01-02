@@ -1,0 +1,32 @@
+.servers-container {
+    background-color: azure;
+    border: 2px solid dodgerblue;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+p {
+    margin-bottom: 0;
+    color: azure;
+    font-size: 32px;
+}
+
+.app-servers {
+    background-color: dodgerblue;
+    border-bottom: 2px solid darkblue;
+}
+
+.app-server {
+    background-color: dodgerblue;
+}
+
+.app-success-alert {
+    background-color: green;
+}
+
+.app-warning-alert {
+    background-color: red;
+}
